@@ -13,5 +13,5 @@ I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/c
 
 ### You may find useful
 
-* A [nice overview](https://www.grassmannian.info) of all generalized Grassmannians and their properties
+* The [periodic table of Grassmannians](https://www.grassmannian.info): a nice overview of all generalized Grassmannians and their properties
 * A [Python script](https://github.com/marcorampazzo/bott-theorem) to compute cohomology of irreducible homogeneous vector bundles on generalized flag varieties.
