@@ -1,4 +1,8 @@
-# Seminar on Bridgeland stability conditions
+---
+layout: post
+title: Seminar on Bridgeland stability conditions
+---
+
 
 We are organizing a study seminar with the goal of understanding Bridgeland stability conditions. This is a framework which provided far-reaching results in the theory of moduli spaces and beyond: in the original paper by Bridgeland the space of stability conditions on a given category has been proven to be a (possibly infinite-dimensional) manifold while in further works by Bayer and Macrì the moduli space of stable objects on a K3 surface (with some generality assumptions) has been shown to be projective, and applications to the birational geometry of certain hyperkähler varieties have been found. The main objective of our seminar is to make it all the way to proving Theorem 1.3 in the paper ["Projectivity and Birational Geometry of Bridgeland moduli spaces"](https://arxiv.org/abs/1203.4613) by Arend Bayer and Emanuele Macrì.
 
