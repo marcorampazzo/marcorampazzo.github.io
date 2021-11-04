@@ -2,7 +2,7 @@
 
 layout: none
 title: Seminar on Bridgeland stability conditions
-geometry: margin=2cm
+geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
 
 ---
 
