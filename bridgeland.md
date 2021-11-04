@@ -1,6 +1,9 @@
 ---
+
 layout: none
 title: Seminar on Bridgeland stability conditions
+geometry: margin=2cm
+
 ---
 
 # Seminar on Bridgeland stability conditions
