@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title: Seminar on Bridgeland stability conditions
 ---
 
