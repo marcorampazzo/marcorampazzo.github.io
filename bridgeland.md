@@ -1,6 +1,6 @@
 ---
 
-layout: none
+layout: null
 title: Seminar on Bridgeland stability conditions
 geometry: "left=3cm,right=3cm,top=2cm,bottom=2cm"
 
