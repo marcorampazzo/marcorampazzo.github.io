@@ -28,8 +28,13 @@
 ### Organizers:
 
 Simone Billi
+
 Francesco Denisi
+
 Franco Giovenzana
-Annalisa Grossi 
+
+Annalisa Grossi
+
 Mihai-Cosmin Pavel
+
 Marco Rampazzo
