@@ -1,16 +1,16 @@
 ### Publications
 
-Michał Kapustka, Marco Rampazzo. "Mukai duality via roofs of projective bundles". Accepted for publication by the Bulletin
+1. Michał Kapustka, Marco Rampazzo. "Mukai duality via roofs of projective bundles". Accepted for publication by the Bulletin
 of the London Mathematical Society, 2021.
 
-Michał Kapustka, Marco Rampazzo. "Torelli problem for Calabi-Yau threefolds with GLSM description. Commun.Num.Theor.Phys. 13 (2019) 4, 725-761
+2. Michał Kapustka, Marco Rampazzo. "Torelli problem for Calabi-Yau threefolds with GLSM description. Commun.Num.Theor.Phys. 13 (2019) 4, 725-761
 
 ### Preprints
 
-Enrico Fatighenti, Michał Kapustka, Giovanni Mongardi, Marco Rampazzo. "The generalized roof F(1,2,n): Hodge structures and derived categories". 2021.
+1. Enrico Fatighenti, Michał Kapustka, Giovanni Mongardi, Marco Rampazzo. "The generalized roof F(1,2,n): Hodge structures and derived categories". 2021.
 Available on the arXiv [here](https://arxiv.org/abs/2110.10475).
 
-Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
+2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
 
 ### Thesis
 
