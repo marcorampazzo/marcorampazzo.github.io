@@ -1,8 +1,8 @@
-## Seminar on Bridgeland stability conditions
+# Seminar on Bridgeland stability conditions
 
 
 
-## Schedule:
+### Schedule:
 
 November 4: Franco Giovenzana. "Definition of Bridgeland stability"
 
@@ -19,5 +19,5 @@ January 13: TBA. "Positivity lemma"
 January 20: Yagna Dutta. "The main theorem"
 
 
-## Organizers:
+### Organizers:
 
