@@ -1,4 +1,4 @@
-### Seminar on Bridgeland stability conditions
+## Seminar on Bridgeland stability conditions
 
 
 
