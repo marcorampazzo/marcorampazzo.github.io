@@ -13,6 +13,10 @@ I am an algebraic geometer interested in the derived categories of Fano and Cala
 
 I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/course/view.php?id=33616) for the bachelor in Chemical Engineering. My past teaching activity can be found [here](https://marcorampazzo.github.io/CV_Oct_2021.pdf).
 
+### Events
+
+This fall semester there is a joint seminar between the universities of Bologna, Chemnitz and Nancy on Bridgeland stability conditions. [More details](https://marcorampazzo.github.io/bridgeland).
+
 ### You may find useful
 
 * The [periodic table of Grassmannians](https://www.grassmannian.info): a nice overview of all generalized Grassmannians and their properties
