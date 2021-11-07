@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Bridgeland stability seminar</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  color: black;
+}
+
+/* Create two columns/boxes that floats next to each other */
+nav {
+  float: left;
+  width: 30%;
+  /* height: 300px; /* only for demonstration, should be removed */
+  background: #ccc;
+  background-color: white;
+  padding: 20px;
+}
+
+  
+  
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 60%;
+  background-color: #f1f1f1;
+  /*height: 300px; /* only for demonstration, should be removed */
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+/* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h2>Bridgeland stability seminar</h2>
+</header>
+
+<section>
+  <nav>
+  </nav>
+  
+ <article>
+   
+   
+   
+   
+<h1>Definition of Bridgeland stability</h1>
+
+<p>
+In this section we want to give the definition of a Bridgeland stability condition. In the previous talks we have given an introduction to 
+bounded derived categories and, more in general, to triangulated categories. With this achieved, you are ready to give basic definitions of 
+Bridgeland stability conditions following Section 5.1 and Section 5.2 of <a href = "https://arxiv.org/abs/1607.01262">these notes</a>. 
+For this purpose, first introduce the key notion of heart of a bounded t-structure and show that it is an abelian subcategory. Then, introduce the
+notion of a slicing and explain its relation with the heart of a bounded t-structure. Here we are ready to give the definition of a Bridgeland
+stability condition} on the derived category of coherent sheaves of a smooth projective variety. Finally we show the close relation between the
+abstract definition of a Bridgeland stability condition on the derived category of coherent sheaves of a smooth projective variety and the
+definition of a stability condition for an arbitrary abelian category.
+</p>
+
+  
+  
+  </article>
+</section>
+
+
+</body>
+</html>
