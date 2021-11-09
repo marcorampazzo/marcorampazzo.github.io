@@ -11,7 +11,7 @@ I am an algebraic geometer interested in the derived categories of Fano and Cala
 
 ### Teaching
 
-I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/course/view.php?id=33616) for the bachelor in Chemical Engineering. My past teaching activity can be found [here](https://marcorampazzo.github.io/CV_Oct_2021.pdf).
+I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/course/view.php?id=33616) for the bachelor in Chemical Engineering. My past teaching activity can be found [here](https://marcorampazzo.github.io/CV_Nov_2021.pdf).
 
 ### News
 
