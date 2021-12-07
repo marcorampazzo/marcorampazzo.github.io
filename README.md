@@ -19,5 +19,5 @@ This fall semester there is a joint seminar between the universities of Bologna,
 
 ### You may find useful
 
-* The [periodic table of Grassmannians](https://www.grassmannian.info): a nice overview of all generalized Grassmannians and their properties
+* The [periodic table of Grassmannians](https://www.grassmannian.info): a nice overview of all generalized Grassmannians and their properties (by Pieter Belmans).
 * A [Python script](https://github.com/marcorampazzo/bott-theorem) to compute cohomology of irreducible homogeneous vector bundles on generalized flag varieties.
