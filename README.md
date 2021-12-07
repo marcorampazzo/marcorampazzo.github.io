@@ -1,7 +1,7 @@
 
 ### About me
 
-I am a research fellow (Assegnista di Ricerca) in mathematics at the University of Bologna. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Nov_2021.pdf).
+I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Nov_2021.pdf).
 
 email: marco[dot]rampazzo3[at]unibo[dot]it
 
