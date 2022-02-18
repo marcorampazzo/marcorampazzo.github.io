@@ -15,7 +15,9 @@ I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/c
 
 ### News
 
-This fall semester there is a joint seminar between the universities of Bologna, Chemnitz and Nancy on Bridgeland stability conditions. [More details here](https://marcorampazzo.github.io/bridgeland).
+The last fall semester there has been a joint seminar between the universities of Bologna, Chemnitz and Nancy on Bridgeland stability conditions. [Here](https://marcorampazzo.github.io/bridgeland) you can find titles, abstracts and videos of the talks.
+
+I am currently collaborating with [Algoretico](https://www.algoretico.it) on a computer vision project.
 
 ### You may find useful
 
