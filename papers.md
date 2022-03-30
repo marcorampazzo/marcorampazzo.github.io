@@ -2,7 +2,7 @@
 
 1. Michał Kapustka, Marco Rampazzo. "Mukai duality via roofs of projective bundles". Bull. Lond. Math. Soc.  (2022). [https://doi.org/10.1112/blms.12597](https://doi.org/10.1112/blms.12597).
 
-2. Michał Kapustka, Marco Rampazzo. "Torelli problem for Calabi-Yau threefolds with GLSM description. Commun.Num.Theor.Phys. 13 (2019) 4, 725-761. [https://dx.doi.org/10.4310/CNTP.2019.v13.n4.a2
+2. Michał Kapustka, Marco Rampazzo. "Torelli problem for Calabi-Yau threefolds with GLSM description. Commun. Num. Theor. Phys. 13 (2019) 4, 725-761. [https://dx.doi.org/10.4310/CNTP.2019.v13.n4.a2
 ](https://dx.doi.org/10.4310/CNTP.2019.v13.n4.a2).
 
 ### Preprints
