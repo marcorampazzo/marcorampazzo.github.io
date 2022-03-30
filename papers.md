@@ -5,6 +5,8 @@
 2. Michał Kapustka, Marco Rampazzo. "Torelli problem for Calabi-Yau threefolds with GLSM description. Commun. Num. Theor. Phys. 13 (2019) 4, 725-761. [https://dx.doi.org/10.4310/CNTP.2019.v13.n4.a2
 ](https://dx.doi.org/10.4310/CNTP.2019.v13.n4.a2).
 
+3. Marco Rampazzo. "Equivalences between Calabi-Yau manifolds and roofs of projective bundles". Phd thesis. Main supervisor: Michał Kapustka. (2021). [https://doi.org/10.31265/usps.78](https://doi.org/10.31265/usps.78).
+
 ### Preprints
 
 1. Enrico Fatighenti, Michał Kapustka, Giovanni Mongardi, Marco Rampazzo. "The generalized roof F(1,2,n): Hodge structures and derived categories". 2021.
@@ -12,6 +14,5 @@ Available on the arXiv [here](https://arxiv.org/abs/2110.10475).
 
 2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
 
-### Thesis
 
-Marco Rampazzo. "Equivalences between Calabi-Yau manifolds and roofs of projective bundles". Main supervisor: Michał Kapustka. Available [here](https://ebooks.uis.no/index.php/USPS/catalog/book/78).
+
