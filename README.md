@@ -1,7 +1,7 @@
 
 ### About me
 
-I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_May_2022.pdf).
+I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Jul_2022.pdf).
 
 [Send me an email](mailto:marco.rampazzo3@unibo.it)
 
@@ -11,13 +11,13 @@ I am an algebraic geometer interested in the derived categories of Fano and Cala
 
 ### Teaching
 
-I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/course/view.php?id=33616) for the bachelor in Chemical Engineering. [Here](https://marcorampazzo.github.io/CV_May_2022.pdf) is my past teaching activity.
+I am assistant to the course [Geometria e Algebra T](https://virtuale.unibo.it/course/view.php?id=33616) for the bachelor in Chemical Engineering. [Here](https://marcorampazzo.github.io/CV_Jul_2022.pdf) is my past teaching activity.
 
 ### News
 
 The last fall semester there has been a joint seminar between the universities of Bologna, Chemnitz and Nancy on Bridgeland stability conditions. [Here](https://marcorampazzo.github.io/bridgeland) you can find titles, abstracts and videos of the talks.
 
-I am currently collaborating with [Algoretico](https://www.algoretico.it) on a computer vision project.
+I am currently collaborating with [Algoretico](https://www.algoretico.it).
 
 ### You may find useful
 
