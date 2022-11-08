@@ -1,7 +1,7 @@
 
 ### About me
 
-I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Jul_2022.pdf).
+I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Nov_2022.pdf).
 
 [Send me an email](mailto:marco.rampazzo3@unibo.it)
 
@@ -11,7 +11,7 @@ I am an algebraic geometer interested in the derived categories of Fano and Cala
 
 ### Teaching
 
-[Here](https://marcorampazzo.github.io/CV_Jul_2022.pdf) is my past teaching activity.
+[Here](https://marcorampazzo.github.io/CV_Nov_2022.pdf) is my past teaching activity.
 
 ### News
 
