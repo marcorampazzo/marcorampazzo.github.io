@@ -8,12 +8,13 @@ I am a postdoc in mathematics at the University of Bologna since February 2021. 
 ### Research
 
 I am an algebraic geometer interested in the derived categories of Fano and Calabi-Yau varieties, exceptional collections of rational homogeneous varieties, non-abelian gauged linear sigma models and matrix factorization categories. My papers can be found [here](https://marcorampazzo.github.io/papers).
-In the spring of 2022 I worked with [Algoretico](https://www.algoretico.it) on a project on computer vision.
 
 ### Teaching
 
 [Here](https://marcorampazzo.github.io/CV_Nov_2022.pdf) is my past teaching activity.
 
+### Other collaborations
+Since 2022 I work with [Algoretico](https://www.algoretico.it) on problems of computer vision and machine learning.
 
 ### You may find useful
 
