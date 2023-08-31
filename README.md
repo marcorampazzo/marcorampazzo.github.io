@@ -14,7 +14,7 @@ I am an algebraic geometer interested in the derived categories of Fano and Cala
 [Here](https://marcorampazzo.github.io/CV_Jan_2023.pdf) is my past teaching activity.
 
 ### Other collaborations
-Since 2022 I work with [Algoretico](https://www.algoretico.it) on problems of computer vision and machine learning.
+I'm working with [Hello Human](https://www.hellohuman.it) on machine learning. More updates soon!
 
 ### You may find useful
 
