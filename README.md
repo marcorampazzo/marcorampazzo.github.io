@@ -14,7 +14,7 @@ I am an algebraic geometer, moslty interested in derived categories and homogene
 [Here](https://marcorampazzo.github.io/CV_Jan_2023.pdf) is my past teaching activity.
 
 ### Besides algebraic geometry
-I'm collaborating with [Hello Human](https://www.hellohuman.it) on machine learning. More precisely, we are working at an LLM approach to recommendation systems. More updates soon!
+I'm collaborating with [Hello Human s.r.l.](https://www.hellohuman.it) on machine learning. More precisely, we are working at an LLM approach to recommendation systems. More updates soon!
 
 ### You may find useful
 
