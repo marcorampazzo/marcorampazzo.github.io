@@ -11,9 +11,11 @@
 
 ### Preprints
 
-1. Marco Rampazzo. "New counterexamples to the birational Torelli theorem for Calabi--Yau manifolds". Available on the arXiv [here](https://arxiv.org/abs/2211.03702).
+1. Riccardo Moschetti and Marco Rampazzo. "Fullness of the Kuznetsov--Polishchuk exceptional collection for the spinor tenfold". Available on the arXiv [here](https://arxiv.org/abs/2306.10986).
 
-2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
+2. Marco Rampazzo. "New counterexamples to the birational Torelli theorem for Calabi--Yau manifolds". Available on the arXiv [here](https://arxiv.org/abs/2211.03702).
+
+3. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
 
 
 
