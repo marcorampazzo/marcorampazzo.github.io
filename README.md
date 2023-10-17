@@ -20,4 +20,4 @@ I'm collaborating with [Hello Human s.r.l.](https://www.hellohuman.it) on machin
 
 * In fall 2021 there has been a joint seminar between the universities of Bologna, Chemnitz and Nancy on Bridgeland stability conditions. [Here](https://marcorampazzo.github.io/bridgeland) you can find titles, abstracts and videos of the talks.
 * The [periodic table of Grassmannians](https://www.grassmannian.info): a nice overview of all generalized Grassmannians and their properties (by Pieter Belmans).
-* A [Python script](https://github.com/marcorampazzo/bott-theorem) to compute cohomology of irreducible homogeneous vector bundles on generalized flag varieties.
+* A [Python script](https://github.com/marcorampazzo/bott-theorem) to compute cohomology of irreducible homogeneous vector bundles on generalized flag varieties. Now available also [here](https://marcorampazzo.pythonanywhere.com/) as an online calculator!
