@@ -1,7 +1,7 @@
 
 ### About me
 
-I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Sep_2023.pdf).
+I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Apr_2024.pdf).
 
 [Send me an email](mailto:marco.rampazzo3@unibo.it)
 
@@ -11,7 +11,7 @@ I am an algebraic geometer, mostly interested in derived categories and homogene
 
 ### Teaching
 
-[Here](https://marcorampazzo.github.io/CV_Jan_2023.pdf) is my past teaching activity.
+[Here](https://marcorampazzo.github.io/CV_Apr_2024.pdf) is my past teaching activity.
 
 ### Besides algebraic geometry
 I'm collaborating with [Hello Human s.r.l.](https://www.hellohuman.it) on machine learning. More precisely, we are working at an LLM approach to recommendation systems. More updates soon!
