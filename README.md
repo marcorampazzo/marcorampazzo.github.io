@@ -3,7 +3,7 @@
 
 I am a postdoc in mathematics at the University of Bologna since February 2021. Before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Apr_2024.pdf).
 
-In March 2025 I will move to the University of Antwerp.
+From March 2025 I will join the University of Antwerp as a postdoc.
 
 [Send me an email](mailto:marco.rampazzo3@unibo.it)
 
