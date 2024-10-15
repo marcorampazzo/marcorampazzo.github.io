@@ -17,9 +17,9 @@
 
 ### Preprints
 
-1. Marco Rampazzo. Calabi--Yau fibrations, simple K-equivalence and mutations. (2020). Available on the arXiv [here](https://arxiv.org/abs/2006.06330)
+1. Marco Rampazzo. "Fano fibrations and DK conjecture for relative Grassmann flips". (2024). Available on the arXiv [here]([https://arxiv.org/abs/2006.0633](https://arxiv.org/abs/2403.10393))
 
-2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
+2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". (2020). Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
 
 
 
