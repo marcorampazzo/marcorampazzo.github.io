@@ -17,9 +17,11 @@
 
 ### Preprints
 
-1. Marco Rampazzo. "Fano fibrations and DK conjecture for relative Grassmann flips". (2024). Available on the arXiv [here](https://arxiv.org/abs/2403.10393)
+1. Marco Rampazzo and Ying Xie. "Derived equivalence for the simple flop of type D5". (2024). Available on the arXiv [here](https://arxiv.org/abs/2410.20446)
 
-2. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". (2020). Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
+2. Marco Rampazzo. "Fano fibrations and DK conjecture for relative Grassmann flips". (2024). Available on the arXiv [here](https://arxiv.org/abs/2403.10393)
+
+3. Marco Rampazzo. "Calabi-Yau fibrations, simple K-equivalence and mutations". (2020). Available on the arXiv [here](https://arxiv.org/abs/2006.06330).
 
 
 
