@@ -3,7 +3,7 @@
 
 I am a postdoc in mathematics at the University of Antwerp. Before, I was a postdoc at the University of Bologna, and even before, I was a PhD student at the University of Stavanger. Here is [my CV](https://marcorampazzo.github.io/CV_Jan_2025.pdf).
 
-[Send me an email](mailto:marco.rampazzo3@unibo.it)
+[Send me an email](mailto:marco.rampazzo@uantwerpen.be)
 
 ### Research
 
